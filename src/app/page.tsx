@@ -1,7 +1,7 @@
 import Image from 'next/image';
 
 import CategoryList from '../components/CategoryList';
-import Footer from '../components/Footer';
+import Footer from '../components/footer';
 import Navbar from '../components/Navbar';
 
 const Home = () => {

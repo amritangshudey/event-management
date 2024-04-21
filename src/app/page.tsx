@@ -1,8 +1,8 @@
 import Image from 'next/image';
 
-import CategoryList from '@/components/categoryList';
-import Footer from '@/components/footer';
-import Navbar from '@/components/navbar';
+import CategoryList from '@/components/categorylist.tsx';
+import Footer from '@/components/footer.tsx';
+import Navbar from '@/components/navbar.tsx';
 
 const Home = () => {
   return (
